@@ -2,6 +2,6 @@
 
 Live Preview 
 
-![image]()
+![image](https://github.com/ashiquebiniqbal/IMDB/blob/main/src/assets/homepage.PNG)
 
 
