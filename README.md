@@ -1,6 +1,6 @@
 # React Pagination 
 
-Live Preview :https://ashiquebiniqbal.github.io/IMDB/
+Live Preview 
 
 ![image]()
 
